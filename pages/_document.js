@@ -5,7 +5,6 @@ export default class MyDocyment extends Document {
         return(
          <Html>
          <Head>
-         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet"/>
          <meta property="og:image"  content="https://i.imgur.com/EPU2oe5.png" key="ogimage" />
          <meta property="og:image:width" content="500" />
          <meta property="og:image:height" content="500" /> 
